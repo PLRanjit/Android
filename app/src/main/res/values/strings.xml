@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+    <string name="enter_name">Country Name</string>
+    <string name="add_record">Add Expense</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="empty_list_text">No records found</string>
+    <string name="enter_desc">Note</string>
+    <string name="enter_title">Title</string>
+    <string name="enter_amt">Amount</string>
+    <string name="add_Budget">Add Budget</string>
+
+    <string-array name="month_arrays">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>

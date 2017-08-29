@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp" >
+
+    <EditText
+        android:id="@+id/subject_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/enter_title" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/amt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/enter_amt"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/description_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:ems="10"
+        android:hint="@string/enter_desc"
+        android:inputType="textMultiLine"
+        android:minLines="5"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:clickable="true"
+        android:paddingBottom="10px"
+        android:paddingTop="10px"
+        android:text="Today"
+        android:textSize="18sp"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/add_record"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/add_Budget" />
+
+</LinearLayout>
