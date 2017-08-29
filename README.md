@@ -20,4 +20,9 @@ https://www.youtube.com/watch?v=AUWaAwNDtCM
 https://www.youtube.com/watch?v=3MpOeVq5DQM 
 https://www.youtube.com/watch?v=EgYZu4v5wvg
 
+<img src="images/Screenshot_2017-08-29-17-51-39.png" height=350>
+<img src="images/Screenshot_2017-08-29-17-50-10.png" height=350>
 <img src="images/Screenshot_2017-08-29-17-46-42.png" height=350>
+<img src="images/Screenshot_2017-08-29-17-51-05.png" height=350>
+<img src="images/Screenshot_2017-08-29-17-51-13.png" height=350>
+<img src="images/Screenshot_2017-08-29-17-51-24.png" height=350>
