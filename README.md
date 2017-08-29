@@ -20,6 +20,4 @@ https://www.youtube.com/watch?v=AUWaAwNDtCM
 https://www.youtube.com/watch?v=3MpOeVq5DQM 
 https://www.youtube.com/watch?v=EgYZu4v5wvg
 
-![](images/Screenshot_2017-08-29-17-51-39.png =100x20)
-
-<img src="https://i.ytimg.com/vi/mOMVV6zlNyE/maxresdefault.jpg">
+<img src="images/Screenshot_2017-08-29-17-35-15.png">
