@@ -8,7 +8,7 @@ http://www.journaldev.com/9438/android-sqlite-database-example-tutorial
 
 https://github.com/Clans/FloatingActionButton
 
-https://github.com/umano/AndroidSlidingUpPanel https://www.youtube.com/watch?v=3zBsmj_bgHM
+https://www.youtube.com/watch?v=3zBsmj_bgHM
 
 https://www.studytutorial.in/android-pie-chart-using-mpandroid-library-tutorial
 
